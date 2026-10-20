@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SGG.IOC\SGG.IOC.csproj" />
+    <ProjectReference Include="..\SGG.Model\SGG.Model.csproj" />
+  </ItemGroup>
+
+</Project>

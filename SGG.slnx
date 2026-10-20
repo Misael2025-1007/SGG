@@ -1,0 +1,26 @@
+<Solution>
+  <Folder Name="/API/">
+    <Project Path="SGG.Api/SGG.Api.csproj" />
+  </Folder>
+  <Folder Name="/Application/">
+    <Project Path="SGG.Application/SGG.Application.csproj" />
+  </Folder>
+  <Folder Name="/Core/">
+    <Project Path="SGG.Domain/SGG.Domain.csproj" />
+    <Project Path="SGG.Model/SGG.Model.csproj" />
+  </Folder>
+  <Folder Name="/Infraestructure/">
+    <Project Path="SGG.Infraestructure/SGG.Infraestructure.csproj" />
+    <Project Path="SGG.Persistence/SGG.Persistence.csproj" />
+  </Folder>
+  <Folder Name="/IOC/">
+    <Project Path="SGG.IOC/SGG.IOC.csproj" />
+  </Folder>
+  <Folder Name="/Test/">
+    <Project Path="SGG.Application.Test/SGG.Application.Test.csproj" />
+    <Project Path="SGG.Persistence.Test/SGG.Persistence.Test.csproj" />
+  </Folder>
+  <Folder Name="/Web/">
+    <Project Path="SGG.Web/SGG.Web.csproj" />
+  </Folder>
+</Solution>
