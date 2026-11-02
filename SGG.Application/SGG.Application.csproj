@@ -1,4 +1,4 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
@@ -9,6 +9,7 @@
   <ItemGroup>
     <ProjectReference Include="..\SGG.Domain\SGG.Domain.csproj" />
     <ProjectReference Include="..\SGG.Model\SGG.Model.csproj" />
+    <ProjectReference Include="..\SGG.Persistence\SGG.Persistence.csproj" />
   </ItemGroup>
 
 </Project>
